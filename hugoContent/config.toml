@@ -1,0 +1,4 @@
+# baseURL = 'https://remote.host.local'
+languageCode = 'en-us'
+title = 'dagger.io demo'
+theme = 'ananke'
