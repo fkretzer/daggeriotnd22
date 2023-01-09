@@ -1,0 +1,1 @@
+dagger run -- node --loader ts-node/esm ./build.mts
